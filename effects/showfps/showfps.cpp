@@ -32,7 +32,7 @@ namespace KWin
 {
 
 const int FPS_WIDTH = 10;
-const int MAX_TIME = 100;
+const int MAX_TIME = 200;
 
 ShowFpsEffect::ShowFpsEffect()
     : paints_pos(0)
